@@ -1,0 +1,22 @@
+h1 {
+  margin-bottom: 50px;
+}
+
+span {
+  margin: 5px;
+  padding: 5px;
+  width: 30%;
+  display: inline-block;
+}
+
+.one {
+  text-align: left;
+}
+
+.two {
+  text-align: center;
+}
+
+.three {
+  text-align: right;
+}
