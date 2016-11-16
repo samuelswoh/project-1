@@ -12,3 +12,15 @@ p {
   width: 100%;
   z-index: 10;
 }
+
+h2 {
+  position:absolute;
+  width: 100%;
+  text-align: center;
+  top: 500px;
+  background-color: #fff;
+}
+
+img {
+  width: 100%;
+}
