@@ -6,12 +6,12 @@ span {
   display: inline-block;
 }
 
-p {
-  text-align: center;
+#footer {
   position: fixed;
-  top: 90%;
+  top: 91%;
   width: 100%;
-  z-index: 10;
+  text-align: center;
+  background-color: white;
 }
 
 h2 {
