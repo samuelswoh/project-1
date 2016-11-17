@@ -11,17 +11,23 @@ span {
   top: 91%;
   width: 100%;
   text-align: center;
-  background-color: white;
+}
+
+.backdrop {
+  background-image: url("http://blogs.reuters.com/great-debate/files/2013/10/obama-back.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  margin: 20px 40px;
+  opacity: .7;
+  position: relative;
 }
 
 h2 {
-  position:absolute;
+  position: absolute;
   width: 100%;
+  top: 50%;
   text-align: center;
-  top: 500px;
-  background-color: #fff;
-}
-
-img {
-  width: 100%;
+  transform: translateY(-50%);
+  color: white;
 }
